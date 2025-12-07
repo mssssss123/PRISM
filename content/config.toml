@@ -1,6 +1,7 @@
 [site]
 title = "Sen Mei"
 description = "Algorithm Engineer at Qiyuan Lab."
+favicon = "/favicon.svg"
 last_updated = "December 7, 2025"
 
 [author]
